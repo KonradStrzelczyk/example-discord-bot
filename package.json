@@ -1,0 +1,16 @@
+{
+    "name": "free-discord-bot-ourmine-ogtv",
+    "version": "1.0.0",
+    "description": "Free template to create your own Discord BOT by OurmineOGTv | OGTvDevils",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "OurmineOGTv | OGTvDevils",
+    "license": "MIT",
+    "dependencies": {
+        "discord": "^0.8.2",
+        "fs": "0.0.1-security",
+        "ms": "^2.1.2"
+    }
+}
